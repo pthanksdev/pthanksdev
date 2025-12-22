@@ -104,7 +104,7 @@ I'm always open to collaborations, freelance projects, and exciting tech opportu
 
 [![GitHub]](https://github.com/p-thanks/p-thanks)
 [![LinkedIn]](www.linkedin.com/in/paul-thanksgiving-800867309)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
+[![Portfolio]()]()
 [![Email]](mailto:pthanksdev@gmail.com)
 [![Twitter]](https://x.com/PThanks01)
 
