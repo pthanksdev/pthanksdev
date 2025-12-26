@@ -1,6 +1,6 @@
-# Hi, I'm Paul Thanksgiving 👋
+# Hi, I'm Paul Thanksgiving 
 
-### 🚀 Full Stack Developer | 🎨 UI/UX Designer | 📱 App Developer | 🧠 Problem Solver
+###  Full Stack Developer | UI/UX Designer | App Developer | Problem Solver
 
 I build **clean, fast, scalable digital experiences** from robust backend systems to premium user interfaces across **web and mobile platforms**.
 
@@ -8,9 +8,9 @@ I love creating products that **work beautifully, look modern, and solve real pr
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
-### 🌐 Web Development
+###  Web Development
 Building modern, responsive web applications:
 - **Frontend Frameworks:** React.js, Typescript, Next.js
 - **Styling:** Tailwind CSS, CSS3, Responsive Design
@@ -18,7 +18,7 @@ Building modern, responsive web applications:
 - **Performance:** SEO optimization, lazy loading, code splitting
 - **Progressive Web Apps (PWA)**
 
-### 📱 App Development
+###  App Development
 Creating native and cross-platform mobile experiences:
 - **Cross-Platform:** React Native
 - **Native:** iOS (Swift), Android (Java)
@@ -26,7 +26,7 @@ Creating native and cross-platform mobile experiences:
 - **App Store Deployment:** iOS App Store, Google Play Store
 - **Mobile UI/UX:** Touch-optimized interfaces, gesture controls
 
-### 🖥️ Backend Development
+###  Backend Development
 Building robust server-side applications:
 - **Languages:** JavaScript, TypeScript, Java
 - **Frameworks:** Node.js, Express, Spring Boot
@@ -34,14 +34,14 @@ Building robust server-side applications:
 - **APIs & Auth:** REST APIs, GraphQL, JWT, OAuth
 - **Deployment:** AWS, Heroku, Vercel, Docker, Render
 
-### 🎨 UI/UX Design
+###  UI/UX Design
 Crafting intuitive, beautiful interfaces:
 - **Design Tools:** Figma (Wireframes → Prototypes → High-fidelity UI)
 - **Design Systems:** Modern, scalable component libraries
 - **Philosophy:** Clean, minimalist, user-centered experiences
 - **Responsive:** Mobile-first, adaptive layouts for web and mobile
 
-### ⚙️ Technical Interests
+###  Technical Interests
 - Full-stack web & mobile architecture
 - Performance optimization (web & app)
 - Backend security best practices
@@ -51,18 +51,18 @@ Crafting intuitive, beautiful interfaces:
 
 ---
 
-## 📌 Core Strengths
+##  Core Strengths
 
-🔥 **Idea to Product** — I turn concepts into fully functional web & mobile applications  
-🔧 **Problem Solver** — I tackle complex technical challenges across platforms  
-🎯 **Clean Code** — I write maintainable, readable, scalable code  
-🧩 **Design + Logic** — My UI/UX decisions are backed by user needs & technical reasoning  
-🌍 **Cross-Platform Expert** — I build for web, iOS, and Android seamlessly  
-🚀 **Fast Learner** — I adapt quickly to new technologies and frameworks
+ **Idea to Product** — I turn concepts into fully functional web & mobile applications  
+ **Problem Solver** — I tackle complex technical challenges across platforms  
+ **Clean Code** — I write maintainable, readable, scalable code  
+ **Design + Logic** — My UI/UX decisions are backed by user needs & technical reasoning  
+ **Cross-Platform Expert** — I build for web, iOS, and Android seamlessly  
+ **Fast Learner** — I adapt quickly to new technologies and frameworks
 
 ---
 
-## 📚 Tech Stack
+##  Tech Stack
 
 **Web Frontend**  
 `React` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind`
@@ -71,10 +71,10 @@ Crafting intuitive, beautiful interfaces:
 `React Native` `Swift` `Java` `Expo`
 
 **Backend**  
-`Node.js` `Express` `Spring Boot` `REST APIs` `GraphQL` `JWT Auth`
+`Node.js` `Express` `Spring Boot` `REST APIs` `GraphQL` `JWT Auth` `Cloudinary`
 
 **Database**  
-`MongoDB` `PostgreSQL` `MySQL` `Firebase` `Realm`
+`MongoDB` `PostgreSQL` `MySQL` `Firebase` `SuperBase`
 
 **Tools & DevOps**  
 `Git` `GitHub` `Figma` `Postman` `Docker` `VS Code` `Xcode` `Intelij Idea`
@@ -87,18 +87,18 @@ Crafting intuitive, beautiful interfaces:
 
 ---
 
-## 🛠️ Currently Working On
+##  Currently Working On
 
-- 🌐 Building full-stack web applications with React.jsx and Node.js
-- 📱 Developing cross-platform mobile apps with React Native
-- 🎨 Refining my UI/UX design skills in Figma
-- 🏗️ Exploring scalable backend architecture patterns
-- 🧩 Creating clean, reusable component libraries for web and mobile
-- ⚡ Optimizing app performance and user experience
+-  Building full-stack web applications with React.jsx and Node.js
+-  Developing cross-platform mobile apps with React Native
+-  Refining my UI/UX design skills in Figma
+-  Exploring scalable backend architecture patterns
+-  Creating clean, reusable component libraries for web and mobile
+-  Optimizing app performance and user experience
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborations, freelance projects, and exciting tech opportunities!
 
@@ -110,12 +110,12 @@ I'm always open to collaborations, freelance projects, and exciting tech opportu
 
 ---
 
-## 🏆 Specializations
+##  Specializations
 
-💻 **Web Development** • 📱 **Mobile App Development** • 🎨 **UI/UX Design** • ⚙️ **Backend Architecture**
+ **Web Development** •  **Mobile App Development** •  **UI/UX Design** •  **Backend Architecture**
 
 ---
 
-⭐️ **Open to:** Collaborations • Freelance Projects • Full-time Opportunities
+ **Open to:** Collaborations • Freelance Projects • Full-time Opportunities
 
 *"Building products that make a difference across every platform, one commit at a time."*
