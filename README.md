@@ -68,7 +68,7 @@ Crafting intuitive, beautiful interfaces:
 `React` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind`
 
 **Mobile Development**  
-`React Native` `Swift` `Java` `Expo`
+`React Native` `Java` `Expo`
 
 **Backend**  
 `Node.js` `Express` `Spring Boot` `REST APIs` `GraphQL` `JWT Auth` `Cloudinary`
