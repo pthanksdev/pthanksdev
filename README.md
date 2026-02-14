@@ -21,7 +21,7 @@ Building modern, responsive web applications:
 ###  App Development
 Creating native and cross-platform mobile experiences:
 - **Cross-Platform:** React Native
-- **Native:** iOS (Swift), Android (Java)
+- **Native:** Android (Java)
 - **Features:** Push notifications, offline support, real-time updates
 - **App Store Deployment:** iOS App Store, Google Play Store
 - **Mobile UI/UX:** Touch-optimized interfaces, gesture controls
