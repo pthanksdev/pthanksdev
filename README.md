@@ -1,3 +1,4 @@
+<img width="1080" height="366" alt="image" src="https://github.com/user-attachments/assets/659d0211-565a-4320-ac74-7cd93b741592" />
 # Hi, I'm Paul Thanksgiving 
 
 ###  Full Stack Developer | UI/UX Designer | App Developer | Problem Solver
