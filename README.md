@@ -1,123 +1,69 @@
-<img width="1080" height="366" alt="image" src="https://github.com/user-attachments/assets/ac47637a-7967-486f-84c1-bfa6f58499d7" />
+<img width="1080" height="366" alt="Paul Thanksgiving - Full Stack Engineer" src="https://github.com/user-attachments/assets/ac47637a-7967-486f-84c1-bfa6f58499d7" />
 
-# Hi, I'm Paul Thanksgiving 
+# Hi, I'm Paul Thanksgiving 🚀
 
-###  Full Stack Developer | UI/UX Designer | App Developer | Problem Solver
+### Full-Stack Engineer | Mobile App Developer | UI/UX Designer
 
-I build **clean, fast, scalable digital experiences** from robust backend systems to premium user interfaces across **web and mobile platforms**.
+I am a **Full Stack Engineer with 4+ years of experience** architecting, designing, and deploying scalable web and mobile ecosystems. With a proven track record of delivering **20+ production-ready applications**, I specialize in building high-performance systems bridging Next.js, React Native, and robust backend microservices.
 
-I love creating products that **work beautifully, look modern, and solve real problems**. Whether it's a full web app, a mobile application, a sleek UI, or a deep technical feature, I enjoy bringing ideas to life end-to-end.
-
----
-
-##  What I Do
-
-###  Web Development
-Building modern, responsive web applications:
-- **Frontend Frameworks:** React.js, Typescript, Next.js
-- **Styling:** Tailwind CSS, CSS3, Responsive Design
-- **State Management:** Redux, Context API
-- **Performance:** SEO optimization, lazy loading, code splitting
-- **Progressive Web Apps (PWA)**
-
-###  App Development
-Creating native and cross-platform mobile experiences:
-- **Cross-Platform:** React Native
-- **Native:** Android (Java)
-- **Features:** Push notifications, offline support, real-time updates
-- **App Store Deployment:** iOS App Store, Google Play Store
-- **Mobile UI/UX:** Touch-optimized interfaces, gesture controls
-
-###  Backend Development
-Building robust server-side applications:
-- **Languages:** JavaScript, TypeScript, Java
-- **Frameworks:** Node.js, Express, Spring Boot
-- **Databases:** MongoDB, MySQL, Firebase, Supabase
-- **APIs & Auth:** REST APIs, GraphQL, JWT, OAuth
-- **Deployment:** AWS, Heroku, Vercel, Docker, Render
-
-###  UI/UX Design
-Crafting intuitive, beautiful interfaces:
-- **Design Tools:** Figma (Wireframes → Prototypes → High-fidelity UI)
-- **Design Systems:** Modern, scalable component libraries
-- **Philosophy:** Clean, minimalist, user-centered experiences
-- **Responsive:** Mobile-first, adaptive layouts for web and mobile
-
-###  Technical Interests
-- Full-stack web & mobile architecture
-- Performance optimization (web & app)
-- Backend security best practices
-- Cross-platform development strategies
-- Reusable component libraries
-- Full product development lifecycle
+I focus heavily on system reliability, optimized database architecture, seamless UI/UX, and turning complex product visions into high-performance execution.
 
 ---
 
-##  Core Strengths
+## Technical Expertise
 
- **Idea to Product** — I turn concepts into fully functional web & mobile applications  
- **Problem Solver** — I tackle complex technical challenges across platforms  
- **Clean Code** — I write maintainable, readable, scalable code  
- **Design + Logic** — My UI/UX decisions are backed by user needs & technical reasoning  
- **Cross-Platform Expert** — I build for web, iOS, and Android seamlessly  
- **Fast Learner** — I adapt quickly to new technologies and frameworks
+### Frontend & Mobile
+* **Frameworks:** React.js, Next.js, React Native, Expo
+* **Languages & Styling:** TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+* **Animation & UI:** Framer Motion, Three.js
+* **State & Data:** Zustand, TanStack Query (React Query), Redux, Context API
 
----
+### Backend Architecture & Databases
+* **Frameworks:** Node.js, NestJS, Express.js, Java Spring Boot, Fastify, Python (FastAPI)
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **ORMs & Pooling:** Prisma, TypeORM, Hibernate
+* **APIs & Auth:** RESTful APIs, GraphQL, JWT, OAuth 2.0
 
-##  Tech Stack
-
-**Web Frontend**  
-`React` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind`
-
-**Mobile Development**  
-`React Native` `Java` `Expo`
-
-**Backend**  
-`Node.js` `Express` `Spring Boot` `REST APIs` `GraphQL` `JWT Auth` `Cloudinary`
-
-**Database**  
-`MongoDB` `PostgreSQL` `MySQL` `Firebase` `SuperBase`
-
-**Tools & DevOps**  
-`Git` `GitHub` `Figma` `Postman` `Docker` `VS Code` `Xcode` `Intelij Idea`
-
-**Cloud & Deployment**  
-`AWS` `Vercel` `Heroku` `Netlify` `Firebase` `App Store Connect` `Google Play Console`
-
-**Other Skills**  
-`API Integration` `Responsive Design` `OAuth` `Push Notifications` `Offline-First Apps`
+### Infrastructure, DevOps & Testing
+* **Cloud & Deploy:** AWS, Vercel, Render, Supabase, Heroku, Netlify
+* **Tools & Practices:** Docker, Git/GitHub, CI/CD, Agile Methodologies, System Design
+* **Testing:** Vitest, JUnit
 
 ---
 
-##  Currently Working On
+## Tech Stack Matrix
 
--  Building full-stack web applications with React.jsx and Node.js
--  Developing cross-platform mobile apps with React Native
--  Refining my UI/UX design skills in Figma
--  Exploring scalable backend architecture patterns
--  Creating clean, reusable component libraries for web and mobile
--  Optimizing app performance and user experience
-
----
-
-##  Let's Connect
-
-I'm always open to collaborations, freelance projects, and exciting tech opportunities!
-
-[![GitHub]](https://github.com/p-thanks/p-thanks)
-[![LinkedIn]](www.linkedin.com/in/paul-thanksgiving-800867309)
-[![Portfolio]()]()
-[![Email]](mailto:pthanksdev@gmail.com)
-[![Twitter]](https://x.com/PThanks01)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Java` `SQL` `HTML5` `CSS3` |
+| **Frontend / Mobile** | `React.js` `Next.js` `React Native` `Tailwind CSS` `Framer Motion` `Three.js` |
+| **Backend Architecture**| `Node.js` `NestJS` `Express.js` `Java Spring Boot` `Fastify` `FastAPI` |
+| **Databases & ORMs** | `PostgreSQL` `MySQL` `MongoDB` `Prisma` `TypeORM` `Hibernate` |
+| **State & Fetching** | `Zustand` `TanStack Query` `Redux` |
+| **Infra & DevOps** | `Docker` `AWS` `Supabase` `Vercel` `Render` `Git` `CI/CD` |
+| **Testing & Tools** | `Vitest` `JUnit` `Postman` `Figma` `IntelliJ IDEA` `VS Code` |
 
 ---
 
-##  Specializations
+## ⚡ Core Strengths & Impact
 
- **Web Development** •  **Mobile App Development** •  **UI/UX Design** •  **Backend Architecture**
+* 📦 **20+ Shipped Products** — Experienced in the full software development lifecycle, moving concepts flawlessly from design to deployment.
+* 📈 **Performance-Driven** — Proven ability to optimize application performance, eliminate code bottlenecks, and slice load times by 20%.
+* 🛡️ **Reliable & Secure Architecture** — Focused on robust database design, modern authentication (JWT/OAuth), and maintainable backend patterns.
+* 🤖 **AI-Accelerated Workflows** — Adept at leveraging AI-assisted development tools to accelerate feature delivery without losing code quality.
 
 ---
 
- **Open to:** Collaborations • Freelance Projects • Full-time Opportunities
+## 🤝 Let's Connect
 
-*"Building products that make a difference across every platform, one commit at a time."*
+I'm based in Lagos, Nigeria and work globally on remote ecosystems, full-time engineering roles, and high-impact freelance products.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pthanksdev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p-thanks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-thanksgiving-800867309)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PThanks01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pthanksdev@gmail.com)
+
+---
+
+⚡ *“Building products that make a difference across every platform, one commit at a time.”*
