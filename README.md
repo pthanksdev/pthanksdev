@@ -1,6 +1,6 @@
 <img width="1080" height="366" alt="Paul Thanksgiving - Full Stack Engineer" src="https://github.com/user-attachments/assets/ac47637a-7967-486f-84c1-bfa6f58499d7" />
 
-# Hi, I'm Paul Thanksgiving 🚀
+# Hi, I'm Paul Thanksgiving
 
 ### Full-Stack Engineer | Mobile App Developer | UI/UX Designer
 
@@ -47,14 +47,14 @@ I focus heavily on system reliability, optimized database architecture, seamless
 
 ## ⚡ Core Strengths & Impact
 
-* 📦 **20+ Shipped Products** — Experienced in the full software development lifecycle, moving concepts flawlessly from design to deployment.
-* 📈 **Performance-Driven** — Proven ability to optimize application performance, eliminate code bottlenecks, and slice load times by 20%.
-* 🛡️ **Reliable & Secure Architecture** — Focused on robust database design, modern authentication (JWT/OAuth), and maintainable backend patterns.
-* 🤖 **AI-Accelerated Workflows** — Adept at leveraging AI-assisted development tools to accelerate feature delivery without losing code quality.
+*  **20+ Shipped Products** — Experienced in the full software development lifecycle, moving concepts flawlessly from design to deployment.
+*  **Performance-Driven** — Proven ability to optimize application performance, eliminate code bottlenecks, and slice load times by 20%.
+*  **Reliable & Secure Architecture** — Focused on robust database design, modern authentication (JWT/OAuth), and maintainable backend patterns.
+*  **AI-Accelerated Workflows** — Adept at leveraging AI-assisted development tools to accelerate feature delivery without losing code quality.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm based in Lagos, Nigeria and work globally on remote ecosystems, full-time engineering roles, and high-impact freelance products.
 
